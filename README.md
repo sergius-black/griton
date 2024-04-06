@@ -17,7 +17,10 @@ Con esto creas el contenedor
 
 `docker run -p 3000:3000 griton-youtube`
 
-Con esto montas el contenedor una vez está creado
+Con esto montas el contenedor una vez está creado. Agregué este comando en un script `run.sh` para simplificar su ejecución.
+Si quieres usar el script debes darle permisos de ejecución `sudo chmod +x run.sh` **NO DES PERMISOS DE EJECUSION A UN SCRIPT SIN ANTES REVISARLO, NO SEA WEON!**
+
+
 
 *de todas maneras si estás aca no debería tener que explicar estas cosas pero en fin...*
 
