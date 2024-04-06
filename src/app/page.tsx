@@ -70,7 +70,7 @@ export default function Home() {
             value={inputText}
             onChange={handleInputChange}
             className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-            placeholder="Que quieres decir..."
+            placeholder="Quiero gritar..."
           />
         </div>
         <div className="text-white text-xl font-semibold">

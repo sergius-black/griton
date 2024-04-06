@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <Head>
-        <title>My Cool Website</title>
+        <title>QUIERO HACER UN ESCANDALO!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <body className={inter.className}>{children}</body>
